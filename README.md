@@ -1,6 +1,6 @@
 ## Prerequisites
 
-Have Node.js installed on your machine. (https://nodejs.org/en/download/)
+Have Node.js (and npm) installed on your machine. (https://nodejs.org/en/download/)
 
 ## Running the server
 
